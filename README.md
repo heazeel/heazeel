@@ -1,7 +1,7 @@
 # 👋Hi, there is Heazeel.
 
 ## About me
-I am a front-end engineer who worked at Alibaba.
+I am a front-end engineer who worked at Alibaba. 🤖🎨
 
 ## I do a lot more than sit at a keyboard all day...
 * 💁 I married my college sweetheart
