@@ -1,7 +1,9 @@
 # 👋Hi, there is Heazeel.
 
-# I do a lot more than sit at a keyboard all day...
+## About me
+I am a front-end engineer who worked at Alibaba.
 
+## I do a lot more than sit at a keyboard all day...
 * 💁 I married my college sweetheart
 * 🐈 I'm a Cat Dad
 * 🚴‍ I am a road cycling enthusiast, riding over 5000KM every year
